@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2DB66D8C-059E-EEF6-190D-37AED7FAF094}") = "Wheel Of Time", "Assembly-CSharp.csproj", "{839F0AAB-6B73-8EFE-4CAC-398C885A14DD}"
+EndProject
+Project("{2DB66D8C-059E-EEF6-190D-37AED7FAF094}") = "Wheel Of Time", "Assembly-CSharp-Editor.csproj", "{69BAC1B7-3AA3-0736-2F0B-8873886E5004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839F0AAB-6B73-8EFE-4CAC-398C885A14DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839F0AAB-6B73-8EFE-4CAC-398C885A14DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839F0AAB-6B73-8EFE-4CAC-398C885A14DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839F0AAB-6B73-8EFE-4CAC-398C885A14DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BAC1B7-3AA3-0736-2F0B-8873886E5004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BAC1B7-3AA3-0736-2F0B-8873886E5004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BAC1B7-3AA3-0736-2F0B-8873886E5004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BAC1B7-3AA3-0736-2F0B-8873886E5004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
